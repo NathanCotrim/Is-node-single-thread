@@ -104,3 +104,8 @@ How we saw, some tasks are sended to be executed in another thread, allowing V8 
 Some modules of NodeJS use the OS to execute the task, winning this way more threads to run our code, a example of these modules are HTTP and HTTPS. 
 
 OBS: Libuv that makes this delegations.
+
+
+## Author
+
+Nathan Cotrim Lemos - MIT License

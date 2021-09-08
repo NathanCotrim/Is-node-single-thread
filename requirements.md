@@ -1,6 +1,6 @@
 ## Concepts
 
-- [X] Introdution NodeJS - Event Driven;
+- [X] Introduction NodeJS - Event Driven;
 - [X] V8;
 - [X] Thread;
 - [x] Event Loop;
@@ -14,7 +14,7 @@
 
 ## Benchmark
 
-- [] Proving thread pool;
+- [x] Proving thread pool;
 - [x] Proving OS delegations + Request;
-- [] Thread Pool Change Size;
+- [x] Thread Pool Change Size;
 - [x] Event Loop;

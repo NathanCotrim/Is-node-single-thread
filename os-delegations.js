@@ -6,7 +6,7 @@ function doRequest() {
     https.request('https://www.google.com', res => {
         res.on('data', () => { })
         res.on('end', () => {
-            console.log(`${(Date.now() - start) / 100 }s`);
+            console.log(`${(Date.now() - start) / 1000 }s`);
         })
     }).end()
 }
